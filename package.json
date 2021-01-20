@@ -1,0 +1,23 @@
+{
+  "name": "oop-training",
+  "version": "1.0.0",
+  "description": "OOP training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolih/OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolih/OOP/issues"
+  },
+  "homepage": "https://github.com/Tolih/OOP#readme",
+  "dependencies": {
+
+  }
+}
