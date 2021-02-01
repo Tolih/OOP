@@ -11,7 +11,7 @@ export default class Server {
         this.#createServer();
     }
 
-    static #createServer() {
+    static createServer() {
         this.http = http.createServer();
         this.http.listen(
             this.port,
